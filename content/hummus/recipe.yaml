@@ -1,0 +1,30 @@
+name: "Hummus"
+ingredients:
+  - name: Kichererbsen (250g Abtropfgewicht)
+    amount: 1
+    unit: Dose
+  - name: Wasser (eiskalt)
+    amount: 100
+    unit: ml
+  - name: Knoblauchzehen
+    amount: 1-2
+  - name: Zitrone (Saft)
+    amount: 1
+  - name: Salz
+    amount: 1/2
+    unit: TL
+  - name: Kreuzkümmel (gemahlen)
+    amount: 1/2
+    unit: TL
+  - name: Tahini
+    amount: 110
+    unit: g
+  - name: Olivenöl
+    amount: 1-2
+    unit: EL
+directions:
+  - Kichererbsen abgiessen.
+  - Zitronensaft, Knoblauchzehe und Salz mixen.
+  - Tahini zugeben, mixen
+  - Während des Mixens kaltes Wasser langsam zugeben.
+  - Kichererbsen, Olivenöl und Kreuzkümmel zugeben. Mixen bis der Hummus homogen ist.

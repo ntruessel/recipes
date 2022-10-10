@@ -1,0 +1,17 @@
+<html lang="de">
+<body>
+<h1>{{name}}</h1>
+<h2>Zutaten</h2>
+<ul>
+    {{#each ingredients}}
+    <li>{{amount}} {{unit}} {{name}}</li>
+    {{/each}}
+</ul>
+<h2>Zubereitung</h2>
+<ol>
+    {{#each directions}}
+    <li>{{this}}</li>
+    {{/each}}
+</ol>
+</body>
+</html>
