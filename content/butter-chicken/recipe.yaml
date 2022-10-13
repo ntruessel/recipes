@@ -1,0 +1,71 @@
+name: "Butter Chicken"
+ingredients:
+  - name: Pouletbrüstli, geschnetzelt
+    amount: 800
+    unit: g
+  - name: Joghurt nature
+    amount: 125
+    unit: ml
+  - name: Knoblauchzehen
+    amount: 3
+  - name: Ingwer
+    amount: 3
+    unit: cm
+  - name: Garam Masala
+    amount: 2
+    unit: TL
+  - name: Kurkuma
+    amount: 1
+    unit: TL
+  - name: Chilipulver
+    amount: 1
+    unit: TL
+  - name: Salz
+    amount: 1
+    unit: TL
+
+  - name: Olivenöl
+    amount: 2
+    unit: EL
+  - name: Ghee
+    amount: 2
+    unit: EL
+  - name: Zwiebel, gehackt
+    amount: 1
+  - name: Knoblauchzehen
+    amount: 3
+  - name: Ingwer
+    amount: 3
+    unit: cm
+  - name: Kreuzkümmel, gemahlen
+    amount: 1.5
+    unit: TL
+  - name: Garam Masala
+    amount: 1.5
+    unit: TL
+  - name: Koriander, gemahlen
+    amount: 1
+    unit: TL
+  - name: Gehackte Tomaten
+    amount: 400
+    unit: g
+  - name: Chilipulver
+    amount: 1
+    unit: TL
+  - name: Salz
+    amount: 1.25
+    unit: TL
+  - name: Rahm
+    amount: 250
+    unit: ml
+  - name: Zucker
+    amount: 1
+    unit: EL
+directions:
+  - Poulet mit Zutaten bis Chilipulver für mindestens 30 Minuten, besser über Nacht marinieren.
+  - Olivenöl in Bratpfanne erhitzen und Poulet von beiden Seiten 3 Minuten anbraten. Dann beiseitestellen.
+  - Ghee in der selben Pfanne erhitzen, Zwiebeln für ca 5 Minuten andämpfen, dann Knoblauch und Ingwer zugeben, weiterdämpfen.
+  - Gewürze zugeben, dann Tomaten, Chilipulver und Salz beigeben. 10-15 Minuten köcheln und ab und zu umrühren.
+  - Sauce vom Herd nehmen und im Mixer fein pürieren. Falls nötig etwas Wasser zugeben.
+  - Pürierte Sauce wieder in die Pfanne zurückgeben, Rahm und Zucker beigeben.
+  - Poulet wieder zufügen und für 8 bis 10 Minuten fertig kochen.
