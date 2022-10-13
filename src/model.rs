@@ -10,6 +10,6 @@ pub struct Recipe {
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Ingredient {
     pub name: String,
-    pub amount: String,
+    pub amount: Option<String>,
     pub unit: Option<String>,
 }
