@@ -23,4 +23,5 @@ fn main() {
     let index = generate_index(&recipes);
     let outpath = Path::new("public/index.html");
     fs::write(outpath, index).unwrap();
+    fs::copy(Path::new("templates/main.css"), Path::new("public/main.css")).unwrap();
 }

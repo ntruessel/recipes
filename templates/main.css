@@ -1,0 +1,13 @@
+:root {
+    --main-color: #fe8d03;
+    --main-color-light: #feaf01;
+    --background-color: #f4f5f3;
+    --accent-color: #382a27;
+    --text-color: #0d0d0d;
+}
+
+html {
+    color: var(--text-color);
+    background: var(--background-color);
+    font-family: Montserrat, sans-serif;
+}
