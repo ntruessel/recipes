@@ -1,0 +1,68 @@
+{
+  "name": "Gerstensuppe",
+  "ingredients": [
+    {
+      "name": "Voressen (Schwein oder Rind)",
+      "amount": "150-200",
+      "unit": "g"
+    },
+    {
+      "name": "Speckwürfeli",
+      "amount": "60",
+      "unit": "g"
+    },
+    {
+      "name": "Bouillon",
+      "amount": "3",
+      "unit": "Liter"
+    },
+    {
+      "name": "Sellerie",
+      "amount": "wenig"
+    },
+    {
+      "name": "Lauch",
+      "amount": "3-5",
+      "unit": "Stangen"
+    },
+    {
+      "name": "Rüebli",
+      "amount": "4-6"
+    },
+    {
+      "name": "Weisse Bohnen (mindestens 12h eingeweicht)",
+      "amount": "100-150",
+      "unit": "g"
+    },
+    {
+      "name": "Rollgerste",
+      "amount": "200-300",
+      "unit": "g"
+    },
+    {
+      "name": "Kartoffeln",
+      "amount": "2-3"
+    },
+    {
+      "name": "Pfeffer"
+    },
+    {
+      "name": "Rahm",
+      "amount": "etwas"
+    },
+    {
+      "name": "Schnittlauch"
+    }
+  ],
+  "directions": [
+    "Bouillon ansetzen.",
+    "Fleisch und Speckwürfeli anbraten, zur Bouillon geben.",
+    "Rüebli, Lauch, und Sellerie in Fleischpfanne dünsten, zur Bouillon geben.",
+    "Bohnen und Rollgerste dünsten, zur Bouillon geben.",
+    "Kartoffeln schneiden, zur Bouillon geben.",
+    "mit Pfeffer würzen",
+    "3 bis 8 Stunden auf tiefer Stufe kochen lassen, Deckel leicht offen lassen.",
+    "Rahm beigeben, 1 bis maximum 2 Stunden weiterkochen.",
+    "Mit Schnittlauch servieren."
+  ]
+}

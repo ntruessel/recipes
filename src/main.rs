@@ -13,8 +13,8 @@ fn main() {
     for path in paths {
         let directory = path.unwrap();
         recipes.push(directory.file_name().to_str().unwrap().to_string());
-        let recipe_file = directory.path().join("recipe.yaml");
-        let recipe = serde_yaml::from_str(fs::read_to_string(recipe_file).unwrap().as_str()).unwrap();
+        let recipe_file = directory.path().join("recipe.json");
+        let recipe = serde_json::from_str(fs::read_to_string(recipe_file).unwrap().as_str()).unwrap();
         let content = generate_recipe(&recipe);
         let mut outpath = Path::new("public").join(directory.file_name());
         outpath.set_extension("html");

@@ -1,0 +1,92 @@
+{
+  "name": "Osterflädli",
+  "ingredients": [
+    {
+      "name": "Mehl",
+      "amount": "250",
+      "unit": "g"
+    },
+    {
+      "name": "Salz",
+      "amount": "1",
+      "unit": "Prise"
+    },
+    {
+      "name": "Zucker",
+      "amount": "2",
+      "unit": "EL"
+    },
+    {
+      "name": "Zitrone",
+      "amount": "1"
+    },
+    {
+      "name": "Butter (kalt, in Stücken)",
+      "amount": "125",
+      "unit": "g"
+    },
+    {
+      "name": "Ei",
+      "amount": "1"
+    },
+    {
+      "name": "Rahm",
+      "amount": "1-2",
+      "unit": "EL"
+    },
+    {
+      "name": "Rahm",
+      "amount": "2",
+      "unit": "dl"
+    },
+    {
+      "name": "Milch",
+      "amount": "2",
+      "unit": "dl"
+    },
+    {
+      "name": "Cranberries",
+      "amount": "100",
+      "unit": "g"
+    },
+    {
+      "name": "Griess",
+      "amount": "3",
+      "unit": "EL"
+    },
+    {
+      "name": "Zucker",
+      "amount": "3",
+      "unit": "EL"
+    },
+    {
+      "name": "Eigelb",
+      "amount": "3"
+    },
+    {
+      "name": "Zitrone",
+      "amount": "1/2"
+    },
+    {
+      "name": "Mandeln (gemahlen)",
+      "amount": "100",
+      "unit": "g"
+    },
+    {
+      "name": "Eiweiss",
+      "amount": "3"
+    }
+  ],
+  "directions": [
+    "Mehl, Salz, Zucker, abgeriebene Schale der Zitrone mischen",
+    "Butter zufügen, zu einer krümeligen Masse vermengen",
+    "Ei und Rahm zugeben, zu einem Teig zusammenfügen, nicht kneten",
+    "Form mit Butter ausreiben",
+    "Teig in Form geben und ca 3mm dicken Boden formen. Einstechen",
+    "Teig für 30 Minuten kühlstellen",
+    "Rahm, Milch und Cranberries aufkochen, Griess dazurühren und ohne Hitze 15 Minuten quellen lassen. Füllung auskühlen lassen",
+    "Zucker, Eigelb, abgeriebene Schale der Zitrone und Mandeln unterrühren",
+    "Eiweisse steif schlagen und vorsichtig unterheben",
+    "Füllung zugeben, im vorgeheizten Ofen für 20 bis 25 Minuten bei 200 °C backen"
+  ]
+}
