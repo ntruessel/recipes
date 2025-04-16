@@ -1,0 +1,24 @@
+{
+  "name": "Pulled Pork Sauce",
+  "ingredients": [
+    {
+      "name": "Tomatenpüree"
+    },
+    {
+      "name": "Ketchup"
+    },
+    {
+      "name": "Essig"
+    },
+    {
+      "name": "Ahornsirup"
+    },
+    {
+      "name": "Spice (Cayennepfeffer o.Ä.)"
+    },
+    {
+      "name": "Salz"
+    }
+  ],
+  "directions": []
+}
